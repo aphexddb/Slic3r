@@ -20,3 +20,9 @@ First lyer:
 - 0.3 layer height
 - 90% height
 - 
+
+## Calibration
+- move head to to middle of bed
+- move head around and calibrate with paper at corners
+- maybe look Z_PROBE_OFFSET_FROM_EXTRUDER (look at value with M501. M212Z +amount, M500 to save it.) In slicer enter GCode manually.
+- 
