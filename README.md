@@ -11,6 +11,6 @@ Generally for Inland PETG sold from Microcenter:
 * 1.4 mm retraction
 * Enable Nozzle wiping
 * First layer
-**  0.3 layer height
-**  90% height
+  *  0.3 layer height
+  *  90% height
 * Let cool after print or bad time
