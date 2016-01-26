@@ -23,7 +23,7 @@ TODO's
 * [Thingverse](http://www.thingiverse.com/)
 * [Youmagine](https://www.youmagine.com/)
 * [Pinshape](https://pinshape.com/)
-* [https://www.myminifactory.com](myminifactory.com)
+* [myminifactory.com](myminifactory.com)
 * [Cults3d](https://cults3d.com/en)
 * [GrabCAD](https://grabcad.com/library)
 * [Autodesk 123D](http://www.123dapp.com/)
@@ -31,4 +31,5 @@ TODO's
 * [3dshook](http://www.3dshook.com/)
 * [Instructables](http://www.instructables.com/)
 
+...and a cool [props site](http://www.xrobots.co.uk/).
 ...and a [news site](http://www.3ders.org/index.html).
